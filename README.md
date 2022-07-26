@@ -1,4 +1,4 @@
-RasterGraphics
-==============
+RayTrace
+========
 
-A small project involving raster graphics and ray tracing.
+A small project involving ray tracing.
